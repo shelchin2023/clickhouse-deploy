@@ -19,7 +19,7 @@ services:
       - CLICKHOUSE_PASSWORD
     ports:
       - 127.0.0.1:19000:9000
-      - 127.0.0.1:11823:8123
+      - 18123:8123
 EOF
 ```
 
