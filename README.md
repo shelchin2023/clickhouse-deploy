@@ -1,6 +1,6 @@
 # 部署 clickhouse
 ## 拉取编排文件
-git clone git@github.com:FusionistGame/clickhouse-deploy.git
+git clone git@github.com:shelchin2023/clickhouse-deploy.git
 
 ## 创建环境变量 
 ```
